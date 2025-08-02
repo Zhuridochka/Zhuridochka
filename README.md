@@ -1,8 +1,5 @@
-Hi there 👋, my name is Iryna Zhuryd!
-I'm Web Developer 
-## 🚀 My Tech Stack
-
-<h1 align="center">Hi there, I'm Zhuridochka 👋</h1>
+<h1 align="left">Hi there, I'm Zhuridochka 👋</h1>
+<h2 align="left">I'm Web Developer</h1>
 
 ## 🌍 I'm based in Ukraine  
 ## 💻 See my portfolio at [My Portfolio](https://portfolio-ukr.netlify.app/home)  
@@ -49,9 +46,9 @@ I'm Web Developer
 
 ### 📌 Featured Projects
 
-- 💼 [Project 1 – Landing Page](https://посилання-на-сайт1.com)  
-- 🎨 [Project 2 – Portfolio Website](https://portfolio-ukr.netlify.app/home)  
-- 🔧 [Project 3 – Responsive Layout](https://посилання-на-сайт3.com)
+- 💼 [Project 1 – Landing Page](https://zhuridochka.github.io/Back_to_business-show/home.html)  
+- 🎨 [Project 2 – Portfolio Website](https://zhuridochka.github.io/Portfolio_Zhuryd/home.html)  
+- 🔧 [Project 3 – Multi-page website](https://zhuridochka.github.io/Vella-show/catalog.html#catalog)
 
 ---
 
