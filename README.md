@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Zhuridochka 👋</h1>
 <h2 align="left">I'm Web Developer</h1>
 
-## 🌍 I'm based in Ukraine  
+## 🌍 I'm based in Belgie  
 ## 💻 See my portfolio at [My Portfolio](https://portfolio-ukr.netlify.app/home)  
 ## 📫 You can contact me at zhuridochka@gmail.com  
 ## 🚀 I'm currently working on landing pages and portfolio projects  
